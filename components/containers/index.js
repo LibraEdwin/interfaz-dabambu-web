@@ -1,0 +1,6 @@
+export { default as TabsAccount } from './Tabs/TabsAccount'
+export { default as ModalCategorias } from './Modal/ModalCategorias'
+export { default as TablaCliente } from './Table/TablaCliente'
+export { default as ProductCard } from './Card/ProductCard'
+export { default as HeadPrint } from './HeadPrint'
+export { default as FiltroFechas } from './Filters/FiltroFechas'
